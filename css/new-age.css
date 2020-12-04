@@ -69,7 +69,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fdcc52;
+  color: #ffffff;
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
@@ -239,6 +239,10 @@ section.features .section-heading {
   margin-bottom: 100px;
 }
 
+.medidas{
+ color: white;
+}
+
 section.features .section-heading h2 {
   margin-top: 0;
 }
@@ -249,7 +253,7 @@ section.features .section-heading p {
 
 section.features .device-container,
 section.features .feature-item {
-  max-width: 325px;
+  max-width: 350px;
   margin: 0 auto;
 }
 
